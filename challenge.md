@@ -33,17 +33,23 @@ Open up this file in your text editor, and write your answers below (where indic
 
 <!-- Answer Starts Here -->
 
+Absolute path - the path begins with a forward slash.
+
 <!-- Answer Ends Here -->
 
 2. Suppose that we're working on a project, and we want to use a font that's being hosted somewhere on the internet. Would we use an absolute or relative path to refer to it? Why?
 
 <!-- Answer Starts Here -->
 
+We would use an absolute path to refer to the font, since the font doesn't live specifically within our project.
+
 <!-- Answer Ends Here -->
 
 3. Now suppose that we have an image file living inside our project. Would we refer to it with an absolute or relative path? Why?
 
 <!-- Answer Starts Here -->
+
+We would refer to the image file using a relative path, since it lives within our project, and there isn't really a risk of mistakenly moving the file elsewhere.
 
 <!-- Answer Ends Here -->
 
